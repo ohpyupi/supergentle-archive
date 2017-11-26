@@ -11,7 +11,7 @@ Ruby(이하 루비)는 1995년에 발표된 프로그래밍 언어이다. 설계
 
 <br/>
 <p align="center">
-  <img src="/../master/assets/images/ruby.png?raw=true" alt="Ruby">
+  <img src="https://media.githubusercontent.com/media/ohpyupi/supergentle-archive/master/assets/images/ruby.png" alt="Ruby">
 </p>
 그림 1. 마츠모초 유키히로에 의해 설계된 객체지향 프로그래밍 언어 루비. 쉬운 문법과 생산성으로 한떄 각광 받았으나, 현재는 점차 열기가 식어가고 있으나 그래도 아직까지 메이저 스크립트 언어로 사용되고 있다.
 <br/>
@@ -39,7 +39,7 @@ Ruby(이하 루비)는 1995년에 발표된 프로그래밍 언어이다. 설계
 
 <br/>
 <p align="center">
-  <img src="/../master/assets/images/ruby-on-rails.png?raw=true" alt="Ruby on Rails">
+  <img src="https://media.githubusercontent.com/media/ohpyupi/supergentle-archive/master/assets/images/ruby-on-rails.png" alt="Ruby on Rails">
 </p>
 그림 2. MVC패턴 웹프레임워크 루비온레일즈. 여타 다른 루비 웹프레임워크중 가장 많이 사용되고 있으며, 루비의 개발철학과 일맥상통하여서 아주 쉽고 빠르게 웹애플리케이션을 제작할수 있게 해준다.
 <br/>
